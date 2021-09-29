@@ -1,1 +1,1 @@
-# idx-30-tsa-itb
+# IDX30 Time Series Modelling
